@@ -1,7 +1,55 @@
 @font-face {
-    font-family: "Whitney Book";
-    src: url("https://poly-cryptic.github.io/classic-discord-font/Whitney-Book.woff2") format("woff2");
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-MediumItalic.woff2") format("woff2");
     font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-Semibold.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-SemiboldItalic.woff2") format("woff2");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-LightItalic.woff2") format("woff2");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url("https/poly-cryptic.github.io/classic-discord-font/Whitney-Light.woff2") format("woff2");
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
